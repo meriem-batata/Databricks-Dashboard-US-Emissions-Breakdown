@@ -14,7 +14,7 @@ The dashboard cross-references total emissions with population by county, highli
 
 ## 🎯 Project Goals
 
-- Ingest and clean a county-level emissions dataset (3,143 U.S. counties)
+- Ingest and explore a county-level emissions dataset (3,143 U.S. counties)
 - Build exploratory visualizations (map, scatter plot, pie chart, ranking)
 - Identify factors correlated with emissions (population, energy consumption, sector activity)
 - Publish an interactive dashboard in Databricks
@@ -52,4 +52,3 @@ The [`Emissions_Data_2023.csv`](Emissions_Data_2023.csv) file contains, per coun
 
 - Getting hands-on with the Databricks environment (notebooks, clusters, dashboards)
 - Building geospatial and statistical visualizations from raw data
-- Interpreting trends (correlation between population and per-capita emissions)
