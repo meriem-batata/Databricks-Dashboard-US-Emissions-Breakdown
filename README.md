@@ -34,7 +34,7 @@ The [`Emissions_Data_2023.csv`](Emissions_Data_2023.csv) file contains, per coun
 ## 🛠️ Tech Stack
 
 - **Databricks** (notebooks + dashboard)
-- **PSQL** for data processing
+- **SQL** for data processing
 - **Databricks Dashboards (Lakeview)** for visualization
 
 ## 📁 Repo Structure
