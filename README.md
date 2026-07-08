@@ -4,11 +4,11 @@ My first Databricks project: analysis and visualization of greenhouse gas (GHG) 
 
 ## 📊 Dashboard Overview
 
-![Dashboard overview](images/dashboard_overview.png)
+![Dashboard overview](dashboard_overview.png)
 
 The dashboard cross-references total emissions with population by county, highlighting the relationship between population density and per-capita emissions.
 
-![Top 10 emitting states and counties](images/dashboard_top_counties.png)
+![Top 10 emitting states and counties](dashboard_top_counties.png)
 
 **Key insight:** the top 10 emitting states (TX, FL, OH, IL, GA, MO, CA, TN, PA, NC) alone account for **51% of total emissions nationwide**, with Texas leading at 20.6%. At the county level, Maricopa County (AZ) and Harris County (TX) are the top emitters, each at nearly 9.7–9.8 million tons of CO2e.
 
